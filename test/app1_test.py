@@ -1,2 +1,2 @@
 print(1111)
-print(dddddd)
+print('dddddd')
