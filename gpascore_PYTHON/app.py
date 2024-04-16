@@ -1,7 +1,7 @@
 import pandas as pd
 
 data = pd.read_csv('gpascore.csv')
-
+print(data)
 
 import tensorflow as tf
 model = tf.keras.models.sequential([
